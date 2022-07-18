@@ -1,7 +1,7 @@
 # Økologi regnskab
 Excel ark til udarbejdelse af økorapport. Excelark med indirect funktion, som på baggrund af faktura nummer aflæser fanernes indhold. 
 
-Arket er tilgængeligt her: [LINK](https://github.com/andershoejlund/okorapport/blob/e6aa1ea7a3c40e9fc0b9a1fca43e6a2be66212d3/EKSEMPEL%20%C3%98KOLOGI%20REGNSKAB.xlsx)
+Arket er tilgængeligt her, tryk download til højre: [LINK](https://github.com/andershoejlund/okorapport/blob/e6aa1ea7a3c40e9fc0b9a1fca43e6a2be66212d3/EKSEMPEL%20%C3%98KOLOGI%20REGNSKAB.xlsx)
 
 # Vejledning:
 
